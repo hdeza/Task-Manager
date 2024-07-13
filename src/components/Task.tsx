@@ -24,8 +24,6 @@ export default function Task({
     }
   }
 
-  async function handleUpdateTask() {}
-
   return (
     <div className="max-w-64 m-6 p-5 shadow-2xl rounded-md ">
       <div className="flex">
