@@ -25,15 +25,17 @@ export default function Task({
   }
 
   return (
-    <div className="max-w-64 m-6 p-5 shadow-2xl rounded-md ">
+    <div className="max-w-64 m-6 p-5 shadow-2xl rounded-md flex flex-col justify-between">
       <div className="flex">
         <h2 className="font-bold">{titulo}</h2>
         <span className="ml-3 text-gray-400 text-sm text-right">
           {fecha} - {hora}
         </span>
       </div>
+
       <p className="my-4">{descripcion}</p>
-      <div className="flex justify-end text-sm">
+
+      <div className="flex justify-end text-sm ">
         <UpdateTask id={id} titulo={titulo} descripcion={descripcion} />
 
         <button
