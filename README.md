@@ -28,5 +28,18 @@ Este repositorio contiene una aplicación web para la gestión de tareas, desarr
    ```bash
    git clone  https://github.com/hdeza/gestion-de-tareas.git
    cd gestion-de-tareas
-
-
+2. **Instalar Dependencias**:
+   ```bash
+   npm install
+3. **Configuración del Firebase**:
+   Crea un proyecto en Firebase y configura Firestore.
+   Añade tu archivo firebaseConfig.js en la carpeta src con las credenciales de Firebase
+4. **Inicia la aplicación**:
+   ```bash
+   npm run dev
+5. **uso**:
+   - Añadir Tarea: Haz clic en el botón "Añadir Tarea" para crear una nueva tarea.
+   - Editar Tarea: Haz clic en el botón "Editar" en una tarjeta de tarea para modificarla.
+   - Eliminar Tarea: Haz clic en el botón "Eliminar" en una tarjeta de tarea para borrarla.
+6. **Contribuciones**:
+ ¡Las contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request para cualquier mejora o corrección.  
