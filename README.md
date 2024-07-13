@@ -12,6 +12,7 @@ Este repositorio contiene una aplicación web para la gestión de tareas, desarr
 ## Tecnologías Utilizadas
 
 - **React**: Biblioteca para construir la interfaz de usuario.
+- **Vite**: Herramienta de desarrollo rápida y ligera.
 - **Firebase**: Plataforma para el backend, incluyendo Firestore.
 - **TailwindCSS**: Framework de CSS para estilos rápidos y responsivos.
 - **Material UI**: React UI Tools.
