@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Ignorar archivo de configuracion de firebase
+src/config/firebase.tsx
