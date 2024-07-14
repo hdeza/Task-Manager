@@ -23,6 +23,11 @@ Este repositorio contiene una aplicación web para la gestión de tareas, desarr
 ![image](https://github.com/user-attachments/assets/e8697938-1d5b-4132-a72e-0c99a503a4fa)
 ![image](https://github.com/user-attachments/assets/67c9a79f-ef96-4e4e-8039-61579dfd532b)
 
+## Vista responsiva desde un movil:
+![image](https://github.com/user-attachments/assets/64fe4db8-e4fd-4854-9a9d-54ace861b2fe)
+![image](https://github.com/user-attachments/assets/499c6291-3551-442b-9967-8c6942a47a91)
+![image](https://github.com/user-attachments/assets/ea68f123-b0d7-49eb-9f43-ae438d0a4ce8)
+
 ## Instalación
 
 1. **Clonar el repositorio**:
