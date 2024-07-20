@@ -1,51 +1,53 @@
-# Gestor de Tareas
+# Task Manager
 
-Este repositorio contiene una aplicación web para la gestión de tareas, desarrollada con React y Firebase. La aplicación permite a los usuarios crear, leer, actualizar y eliminar tareas, ofreciendo una interfaz intuitiva y funcional.
+This repository contains a web application for task management, developed with React and Firebase. The application allows users to create, read, update, and delete tasks, offering an intuitive and functional interface.
 
-## Características
+## Features
 
-- **Crear Tareas**: Permite añadir nuevas tareas a la lista.
-- **Editar Tareas**: Posibilidad de modificar tareas existentes.
-- **Eliminar Tareas**: Opción para borrar tareas no deseadas.
-- **Listado de Tareas**: Muestra las tareas organizadas con sus respectivas fechas y opciones de edición/eliminación.
+- **Create Tasks**: Allows adding new tasks to the list.
+- **Edit Tasks**: Ability to modify existing tasks.
+- **Delete Tasks**: Option to remove unwanted tasks.
+- **Task List**: Displays tasks organized with their respective dates and edit/delete options.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **React**: Biblioteca para construir la interfaz de usuario.
-- **Vite**: Herramienta de desarrollo rápida y ligera.
-- **Firebase**: Plataforma para el backend, incluyendo Firestore.
-- **TailwindCSS**: Framework de CSS para estilos rápidos y responsivos.
+- **React**: Library for building the user interface.
+- **Vite**: Fast and lightweight development tool.
+- **Firebase**: Backend platform, including Firestore.
+- **TailwindCSS**: CSS framework for quick and responsive styles.
 - **Material UI**: React UI Tools.
 
-## Captura de Pantalla
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/32e3b085-fddb-467c-816f-db2e52fb9469)
 ![image](https://github.com/user-attachments/assets/e8697938-1d5b-4132-a72e-0c99a503a4fa)
 ![image](https://github.com/user-attachments/assets/67c9a79f-ef96-4e4e-8039-61579dfd532b)
 
-## Vista responsiva desde un movil:
+## Responsive View from a Mobile:
 ![image](https://github.com/user-attachments/assets/64fe4db8-e4fd-4854-9a9d-54ace861b2fe)
 ![image](https://github.com/user-attachments/assets/499c6291-3551-442b-9967-8c6942a47a91)
 ![image](https://github.com/user-attachments/assets/ea68f123-b0d7-49eb-9f43-ae438d0a4ce8)
 
-## Instalación
+## Installation
 
-1. **Clonar el repositorio**:
+1. **Clone the repository**:
    ```bash
-   git clone  https://github.com/hdeza/gestion-de-tareas.git
+   git clone https://github.com/hdeza/Task-Manager.git
    cd gestion-de-tareas
-2. **Instalar Dependencias**:
+2. Install Dependencies:
    ```bash
    npm install
-3. **Configuración del Firebase**:
-   Crea un proyecto en Firebase y configura Firestore.
-   Añade tu archivo firebaseConfig.js en la carpeta src con las credenciales de Firebase
-4. **Inicia la aplicación**:
+3. Firebase Configuration:
+ - Create a project in Firebase and set up Firestore.
+ - Add your firebaseConfig.js file to the src folder with Firebase credentials.
+
+4. Start the application:
    ```bash
    npm run dev
-5. **uso**:
-   - Añadir Tarea: Haz clic en el botón "Añadir Tarea" para crear una nueva tarea.
-   - Editar Tarea: Haz clic en el botón "Editar" en una tarjeta de tarea para modificarla.
-   - Eliminar Tarea: Haz clic en el botón "Eliminar" en una tarjeta de tarea para borrarla.
-6. **Contribuciones**:
- ¡Las contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request para cualquier mejora o corrección.  
+5. Usage:
+ - Add Task: Click the "Add Task" button to create a new task.
+ - Edit Task: Click the "Edit" button on a task card to modify it.
+ - Delete Task: Click the "Delete" button on a task card to remove it.
+
+6. Contributions:
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or fixes.
